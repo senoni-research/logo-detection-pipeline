@@ -1,0 +1,9 @@
+{
+  "video_path": "demo_output/demo_video.mp4",
+  "template_path": "demo_output/demo_logo.png",
+  "logo_name": "DemoBrand",
+  "processing_time": 70.01236009597778,
+  "total_frames_analyzed": 150,
+  "total_detections": 0,
+  "detections": []
+}
